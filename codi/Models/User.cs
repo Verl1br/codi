@@ -1,0 +1,15 @@
+namespace codi.Models
+{
+    public class User
+    {
+        public int Id { get; set; }
+
+        public string Email { get; set; } = string.Empty;
+
+        public byte[] PasswordHash { get; set; } = null!;
+
+        public byte[] PasswordSalt { get; set; } = null!;
+
+        public List<Post>? Posts { get; set; }
+    }
+}

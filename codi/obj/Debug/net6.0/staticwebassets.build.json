@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "1iPW9Rh0dSvPFx5s/NW+nQO8R0HPnrz2diKG0i+PE1s=",
+  "Source": "codi",
+  "BasePath": "_content/codi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "codi\\wwwroot",
+      "Source": "codi",
+      "ContentRoot": "d:\\Csharpik\\codi\\codi\\wwwroot\\",
+      "BasePath": "_content/codi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "d:\\Csharpik\\codi\\codi\\wwwroot\\img\\9e6c25f7-d245-4278-a61c-b8d5d6d37e25.png",
+      "SourceId": "codi",
+      "SourceType": "Discovered",
+      "ContentRoot": "d:\\Csharpik\\codi\\codi\\wwwroot\\",
+      "BasePath": "_content/codi",
+      "RelativePath": "img/9e6c25f7-d245-4278-a61c-b8d5d6d37e25.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\9e6c25f7-d245-4278-a61c-b8d5d6d37e25.png"
+    },
+    {
+      "Identity": "d:\\Csharpik\\codi\\codi\\wwwroot\\img\\bd4dc43b-b0f4-4ea3-880c-d76e399ca96b.png",
+      "SourceId": "codi",
+      "SourceType": "Discovered",
+      "ContentRoot": "d:\\Csharpik\\codi\\codi\\wwwroot\\",
+      "BasePath": "_content/codi",
+      "RelativePath": "img/bd4dc43b-b0f4-4ea3-880c-d76e399ca96b.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bd4dc43b-b0f4-4ea3-880c-d76e399ca96b.png"
+    },
+    {
+      "Identity": "d:\\Csharpik\\codi\\codi\\wwwroot\\img\\d8a95922-1e8e-48dd-9788-75048c2b7816.png",
+      "SourceId": "codi",
+      "SourceType": "Discovered",
+      "ContentRoot": "d:\\Csharpik\\codi\\codi\\wwwroot\\",
+      "BasePath": "_content/codi",
+      "RelativePath": "img/d8a95922-1e8e-48dd-9788-75048c2b7816.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\d8a95922-1e8e-48dd-9788-75048c2b7816.png"
+    },
+    {
+      "Identity": "d:\\Csharpik\\codi\\codi\\wwwroot\\img\\eae882e7-05fd-42e0-8cdb-cb206da38bc0.png",
+      "SourceId": "codi",
+      "SourceType": "Discovered",
+      "ContentRoot": "d:\\Csharpik\\codi\\codi\\wwwroot\\",
+      "BasePath": "_content/codi",
+      "RelativePath": "img/eae882e7-05fd-42e0-8cdb-cb206da38bc0.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\eae882e7-05fd-42e0-8cdb-cb206da38bc0.png"
+    }
+  ]
+}
